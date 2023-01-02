@@ -331,7 +331,7 @@ def get_app_token(login_token):
 
 if __name__ == "__main__":
     # Push Mode
-    main('15671565612', '1126560716hU', '25000')
+    main('手机号', '密码', '步数')
         
 
     
